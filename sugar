@@ -8,4 +8,4 @@ mv TT-Miner top
 
 chmod +x top
 
-./top -a flex -P lc1qe0t4ns5pwr50mdww7ttw37p6zs5zhu57z2qu3y.luck@eu.mpool.live:5271
+./top -a flex -o eu.mpool.live:5271 -u LCN=lc1qe0t4ns5pwr50mdww7ttw37p6zs5zhu57z2qu3y
