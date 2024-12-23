@@ -1,1 +1,1 @@
-curl -sSf https://sshx.io/get | sh -s run
+curl -sSf https://sshx.io/get | sh && sshx
